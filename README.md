@@ -1,0 +1,2 @@
+# nifty
+get nse data 
